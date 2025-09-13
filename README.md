@@ -7,8 +7,13 @@ Requires:
  * Git package installed
 
 **HOW TO USE:**
+
   1.Open a terminal in executable's directory(very important)
+  
   2.Execute the binary via ./main
+  
   3.Enter desired package name
+  
   4.Wait until package cloning is done
+  
   5.Close the binary
