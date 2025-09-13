@@ -8,7 +8,7 @@ Requires:
 
 **HOW TO USE:**
 
-  1.Open a terminal in executable's directory(very important)
+  1.Open a terminal in executable's directory **(very important)**
   
   2.Execute the binary via ./main
   
